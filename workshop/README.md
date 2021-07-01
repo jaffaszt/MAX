@@ -69,7 +69,11 @@ this is the Code Engine User Interface , you will be able to deploy apps from he
 3. Select an account Enter a number : `2. Advowork (e2b54d0c3bbe4180b1ee63a0e2a7aba4) <-> 1840867  `  ( **not** not you  account )   
 4. Target a resource group by running the following command `ibmcloud target -g advowork`
 5. Create a project `ibmcloud ce project create --name xxxxxx` (**where xxxxxx*** is a uniqe name like your account name , use only small letters, this is due to the fact that we all share the same account for this lab)  
-6. Go to https://cloud.ibm.com/docs/codeengine?topic=codeengine-deploy-app-tutorial and start with" **Tutorial: Deploying applications step 1** and then you may run all the other tutorials.
+6. Run the container by pointing to the quay.io image and exposting port 5000.
+
+$ ibmcloud ce application create --name max-object-detector --image quay.io/codait/max-object-detector --port 5000
+
+7. Open the resulting URL in a browser, append /app to view the app instead of the API.
 
 
 
