@@ -19,6 +19,11 @@ A cluster will be allocated for you , this might take a few secounds....
 ![](README_IMAGES/GoToOpenshift2.png)
 # Choose to work with Developer View
 ![](README_IMAGES/DeveloperView3.png)
+# Go to Create Project
+![](README_IMAGES/GoCreateProject.png)
+# Create Project by the name of 'max-deployments'
+![](README_IMAGES/CreateProject.png)
+
 
 
  
