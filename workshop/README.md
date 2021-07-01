@@ -28,7 +28,7 @@ A cluster will be allocated for you , this might take a few secounds....
 ![](README_IMAGES/DeveloperView3.png)
 # Go to Create Project
 ![](README_IMAGES/GoCreateProject.png)
-# Create Project by the name of 'max-deployments'
+# Create Project by the name of `max-deployments`
 ![](README_IMAGES/CreateProject.png)
 # Choose from Docker image
 ![](README_IMAGES/FromDocker4.png)
@@ -71,7 +71,7 @@ this is the Code Engine User Interface , you will be able to deploy apps from he
 5. Create a project `ibmcloud ce project create --name xxxxxx` (**where xxxxxx*** is a uniqe name like your account name , use only small letters, this is due to the fact that we all share the same account for this lab)  
 6. Run the container by pointing to the quay.io image and exposting port 5000.
 
-$ ibmcloud ce application create --name max-object-detector --image quay.io/codait/max-object-detector --port 5000
+`$ ibmcloud ce application create --name max-object-detector --image quay.io/codait/max-object-detector --port 5000`
 
 7. Open the resulting URL in a browser, append /app to view the app instead of the API.
 
