@@ -23,6 +23,9 @@ A cluster will be allocated for you , this might take a few secounds....
 ![](README_IMAGES/GoCreateProject.png)
 # Create Project by the name of 'max-deployments'
 ![](README_IMAGES/CreateProject.png)
+# Choose from Docker image
+![](README_IMAGES/FromDocker4.png)
+
 
 
 
