@@ -11,7 +11,7 @@ Please make sure to run all steps to get a valid IBM Lite Cloud account
 
 2. Click on Bring Your Own Application    
 
-![](README_IMAGES/BringYourOwn.png)
+![](README_IMAGES/BringYourOwn1.png)
 
 A cluster will be allocated for you , this might take a few secounds.... 
 <!-- ( optional not part of the workshop  : you may run Lab 1 ,2 ,3 to learn about Openshift ) -->
