@@ -11,7 +11,7 @@ Please make sure to run all steps to get a valid IBM Lite Cloud account
 2) Deploy on Red Hat OpenShift - you will need to follow the steps below to get an Openshift cluster and a more updated screen shots 
 3) Deploy on Code Engine - follow the steps below to get the option to deploy with Code Engine 
 
-# 2 To Deploy on Openshift (updated)  - follow the updated instructions bellow 
+# 2) To Deploy on Openshift (updated)  - follow the updated instructions bellow 
 
 # Get a preconfigured OpenShift environment available for four hours at no charge
 1. [access to IBM Openshift  Cluster]( https://developer.ibm.com/openlabs/openshift)
