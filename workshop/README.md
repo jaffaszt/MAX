@@ -25,6 +25,14 @@ A cluster will be allocated for you , this might take a few secounds....
 ![](README_IMAGES/CreateProject.png)
 # Choose from Docker image
 ![](README_IMAGES/FromDocker4.png)
+# Enter codait/max-object-detector as Image name and click on tab so other fileds will be fields accordingly 
+![](README_IMAGES/DeployImage.png)
+# Click on the round image 
+![](README_IMAGES/FindRoute.png)
+# Click on the route to run the model 
+![](README_IMAGES/ClickOnRoute.png)
+
+
 
 
 
