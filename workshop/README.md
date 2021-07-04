@@ -5,6 +5,7 @@
 
 Please make sure to run all steps to get a valid IBM Lite Cloud account 
 ![](README_IMAGES/Register.png)
+# We would appricate it if you could please answer [a short survey](https://ibm.biz/Bdfv9z)
 
 # The Lab is base on https://github.com/IBM/MAX-Object-Detector#deploy-on-red-hat-openshift and run from there 
 1) Deploy from Quay - to run based on Docker on local- run as instructed in the base lab 
@@ -12,8 +13,8 @@ Please make sure to run all steps to get a valid IBM Lite Cloud account
 3) Deploy on Code Engine - follow the steps below to get the option to deploy with Code Engine 
 
 
-# We would appricate it if you could please answer [a short survey](https://ibm.biz/Bdfv9z)
- )
+
+ 
 
 
 # 2) To Deploy on Openshift (updated)  - follow the updated instructions bellow 
