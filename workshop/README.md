@@ -1,11 +1,11 @@
 
 # Register to IBM Cloud 
 
-[Register IBM Cloud](https://ibm.biz/Bdfv92 )
+[Register IBM Cloud](https://ibm.biz/Bdf85L )
 
 Please make sure to run all steps to get a valid IBM Lite Cloud account 
 ![](README_IMAGES/Register.png)
-# We would appricate it if you could please answer [a short survey](https://ibm.biz/Bdfv9z)
+# We would appricate it if you could please answer [a short survey](https://ibm.biz/Bdf859)
 
 # The Lab is base on https://github.com/IBM/MAX-Object-Detector#deploy-on-red-hat-openshift and run from there 
 1) Deploy from Quay - to run based on Docker on local- run as instructed in the base lab 
