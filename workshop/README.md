@@ -56,7 +56,7 @@ A cluster will be allocated for you , this might take a few secounds....
 
 
  2. You will get an email invitation , please click on the link and follow the insturctions in the link until you login to the IBM Cloud 
- 2. Click on the "Login in to this" to Login in to the IBM  Cloud (or via https://cloud.ibm.com/)
+ <!---    2. Click on the "Login in to this" to Login in to the IBM  Cloud (or via https://cloud.ibm.com/) --->
 
 ![](README_IMAGES/LogIn.png)
 
