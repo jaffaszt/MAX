@@ -58,7 +58,7 @@ A cluster will be allocated for you , this might take a few secounds....
  2. You will get an email invitation , please click on the link and follow the insturctions in the link until you login to the IBM Cloud 
  <!---    2. Click on the "Login in to this" to Login in to the IBM  Cloud (or via https://cloud.ibm.com/) --->
 
-![](README_IMAGES/LogIn.png)
+<!---     ![](README_IMAGES/LogIn.png) --->
 
 You will be able to use this option ( without a credit card ) to use Code Engine only for a short period of time. Please note that we will delete  any project that is older then 24-72 hours, so this is designed for short term learning.
 
